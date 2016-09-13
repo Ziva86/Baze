@@ -1,4 +1,4 @@
-
+--hahahahahahahaha :-)
 CREATE VIEW [HumanResources].[vJobCandidateEmployment] 
 AS 
 SELECT 
