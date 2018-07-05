@@ -1,0 +1,7 @@
+<DatabaseSettings>
+  <Collation>Latin1_General_100_CI_AS</Collation>
+  <ServerVersion>Sql2016</ServerVersion>
+  <ServerName>DESKTOP-N75VGLF\SQLEXPRESS</ServerName>
+  <DatabaseName>WideWorldImporters</DatabaseName>
+  <DatabaseInformation Version="1" />
+</DatabaseSettings>
