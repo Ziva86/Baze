@@ -1,0 +1,3 @@
+CREATE USER [slira]
+	WITH DEFAULT_SCHEMA = [slira]
+GO

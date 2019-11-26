@@ -1,0 +1,3 @@
+CREATE USER [INSNT01\citrix_admin]
+	WITH DEFAULT_SCHEMA = [dbo]
+GO

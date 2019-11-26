@@ -1,0 +1,3 @@
+CREATE USER [INSNT01\intradeuser]
+	WITH DEFAULT_SCHEMA = [dbo]
+GO
