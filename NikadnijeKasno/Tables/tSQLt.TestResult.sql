@@ -12,6 +12,7 @@ CREATE TABLE [tSQLt].[TestResult] (
 		[Msg]               [nvarchar](max) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 		[TestStartTime]     [datetime] NOT NULL,
 		[TestEndTime]       [datetime] NULL,
+		[x]                 [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 		CONSTRAINT [PK__TestResu__3214EC075A6C93B5]
 		PRIMARY KEY
 		CLUSTERED
