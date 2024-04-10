@@ -1,7 +1,0 @@
-<DatabaseSettings>
-  <Collation>SQL_Latin1_General_CP1_CI_AS</Collation>
-  <ServerVersion>Sql2014</ServerVersion>
-  <ServerName>WINSERVER2016</ServerName>
-  <DatabaseName>AdventureWorks2014</DatabaseName>
-  <DatabaseInformation Version="1" />
-</DatabaseSettings>
