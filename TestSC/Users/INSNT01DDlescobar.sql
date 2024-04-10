@@ -1,3 +1,0 @@
-CREATE USER [INSNT01\lescobar]
-	WITH DEFAULT_SCHEMA = [dbo]
-GO

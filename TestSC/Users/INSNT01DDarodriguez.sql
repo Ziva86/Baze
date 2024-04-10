@@ -1,3 +1,0 @@
-CREATE USER [INSNT01\arodriguez]
-	WITH DEFAULT_SCHEMA = [INSNT01\arodriguez]
-GO

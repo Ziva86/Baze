@@ -1,5 +1,0 @@
-SET ANSI_NULLS ON
-SET QUOTED_IDENTIFIER ON
-GO
---Procedure [dbo].[stpBorraMP] is encrypted. It could not be scripted
-GO

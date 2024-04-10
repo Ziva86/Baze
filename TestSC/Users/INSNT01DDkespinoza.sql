@@ -1,3 +1,0 @@
-CREATE USER [INSNT01\kespinoza]
-	WITH DEFAULT_SCHEMA = [dbo]
-GO

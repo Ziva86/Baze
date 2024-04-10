@@ -1,3 +1,0 @@
-CREATE USER [Intrade1]
-	WITH DEFAULT_SCHEMA = [Intrade1]
-GO
