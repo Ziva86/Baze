@@ -1,4 +1,0 @@
-CREATE USER [Zivko3]
-	FOR LOGIN [Zivko3]
-	WITH DEFAULT_SCHEMA = [dbo]
-GO
