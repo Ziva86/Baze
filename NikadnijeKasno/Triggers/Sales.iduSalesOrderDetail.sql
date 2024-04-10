@@ -25,7 +25,7 @@ BEGIN
                 ,[TransactionType]
                 ,[TransactionDate]
                 ,[Quantity]
-                ,[ActualCost])
+                ,[ActualCost1])
             SELECT 
                 inserted.[ProductID]
                 ,inserted.[SalesOrderID]
